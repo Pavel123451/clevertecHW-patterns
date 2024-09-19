@@ -1,0 +1,6 @@
+rootProject.name = 'clevertecHW-patterns'
+include 'hotel-room-reservation-system'
+include 'task-managment-system'
+include 'proxy'
+include 'online-payment-system'
+
